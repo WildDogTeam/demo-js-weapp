@@ -1,0 +1,84 @@
+<scroll-view class='container'>
+    <view class="title">Wilddog Network TEST</view>
+    <view class="agent">
+        <view class="sub-title">联通</view>
+        <view class="warp {{changed1}}">
+            <view class="item-title">北京联通</view>
+            <view class="item-val">{{BeijingUnicomValue}}</view>
+        </view>
+        <view class="warp {{changed2}}">
+            <view class="item-title">上海联通</view>
+            <view class="item-val">{{ShanghaiUnicomValue}}</view>
+        </view> 
+        <view class="warp {{changed3}}">
+            <view class="item-title">广州联通</view>
+            <view class="item-val">{{GuangzhouUnicomValue}}</view>
+        </view>  
+	</view>
+    <view class="agent">
+        <view class="sub-title">电信</view>
+        <view class="warp {{changed4}}">
+            <view class="item-title">北京电信</view>
+            <view class="item-val">{{BeijingTelecomValue}}</view>
+        </view>
+        <view class="warp {{changed5}}">
+            <view class="item-title">上海电信</view>
+            <view class="item-val">{{ShanghaiTelecomValue}}</view>
+        </view> 
+        <view class="warp {{changed6}}">
+            <view class="item-title">广州电信</view>
+            <view class="item-val">{{GuangzhouTelecomValue}}</view>
+        </view> 
+         <view class="warp {{changed7}}">
+            <view class="item-title">杭州电信</view>
+            <view class="item-val">{{HangzhouTelecomValue}}</view>
+        </view>
+        <view class="warp {{changed8}}">
+            <view class="item-title">郑州电信</view>
+            <view class="item-val">{{ZhengzhouTelecomValue}}</view>
+        </view>
+        <view class="warp {{changed9}}">
+            <view class="item-title">南京电信</view>
+            <view class="item-val">{{NanjingTelecomValue}}</view>
+        </view>
+        <view class="warp {{changed10}}">
+            <view class="item-title">沈阳电信</view>
+            <view class="item-val">{{ShenyangTelecomValue}}</view>
+        </view>  
+        <view class="warp {{changed11}}">
+            <view class="item-title">成都电信</view>
+            <view class="item-val">{{ChengduTelecomValue}}</view>
+        </view>    
+	</view>
+    <view class="agent">
+        <view class="sub-title">移动</view>
+        <view class="warp {{changed12}}">
+            <view class="item-title">北京移动</view>
+            <view class="item-val">{{BeijingMobileValue}}</view>
+        </view>
+        <view class="warp {{changed13}}">
+            <view class="item-title">上海移动</view>
+            <view class="item-val">{{ShanghaiMobileValue}}</view>
+        </view> 
+        <view class="warp {{changed14}}">
+            <view class="item-title">广州移动</view>
+            <view class="item-val">{{GuangzhouMobileValue}}</view>
+        </view>  
+	</view>
+    <view class="agent">
+        <view class="sub-title">其他</view>
+        <view class="warp {{changed15}}">
+            <view class="item-title">深圳长城宽带</view>
+            <view class="item-val">{{ShenzhenChangchengValue}}</view>
+        </view>
+        <view class="warp {{changed16}}">
+            <view class="item-title">广西铁通</view>
+            <view class="item-val">{{GuangxiTietongValue}}</view>
+        </view> 
+        <view class="warp {{changed17}}">
+            <view class="item-title">广东铁通</view>
+            <view class="item-val">{{GuangdongTietongValue}}</view>
+        </view>  
+	</view>
+</scroll-view>
+

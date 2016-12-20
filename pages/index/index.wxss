@@ -1,0 +1,52 @@
+.title {
+    text-align: center;
+    color: #fff;
+    font-weight: 300;
+    font-size: 40rpx;
+    padding: 24px;
+}
+.agent {
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+    padding-bottom: 2px;
+    margin-bottom: 10px;
+    
+}
+.sub-title {
+    color: #ccc;
+    font-size: 32rpx;
+    padding: 12px;
+     background-color: #333;
+}
+.warp {
+    float: left;
+    width: 32.5%;
+    font-size: 24rpx;
+    letter-spacing: 2rpx;
+    height: 130rpx;
+    border: 1px solid #333;
+    border-radius: 3px;
+    background-color: #444;
+    margin:0 1rpx;
+    padding: 10px;
+    box-sizing: border-box;
+    display: inline-block;
+    transition: background-color 250ms linear;
+}
+
+.item-title {
+    font-size: 24rpx;
+    color: #ccc;
+}
+
+.item-val {
+    font-size: 30rpx;
+    line-height: 30rpx;
+    font-weight: 500;
+    color: #fff;
+    margin-top: 10px;
+}
+
+.changed {
+    background-color: #2f96e2;
+}

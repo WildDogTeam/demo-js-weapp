@@ -1,0 +1,13 @@
+{
+  "pages": [  
+    "pages/index/index"
+  ],
+  "window":{
+    "navigationBarBackgroundColor": "#333137",
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "",
+    "backgroundColor": "#eee",
+    "backgroundTextStyle": "dark",
+    "enablePullDownRefresh": true
+  }
+}

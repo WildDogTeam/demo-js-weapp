@@ -1,0 +1,16 @@
+/**app.wxss**/
+page {
+  min-height: 100%;
+  color: #666;
+  font-family: NotoSansHans-Regular,AvenirNext-Regular,arial,Hiragino Sans GB,"Microsoft Yahei","Hiragino Sans GB","WenQuanYi Micro Hei",sans-serif;
+}
+
+.container {
+  height: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #222;
+  overflow: hidden;
+  padding-bottom: 10px;
+}
